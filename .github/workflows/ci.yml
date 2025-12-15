@@ -1,0 +1,1 @@
+name: CI - Testes Automatizadoson: [push]jobs:build:runs-on: ubuntu-lateststeps:- uses: actions/checkout@v4- name: Set up Pythonuses: actions/setup-python@v5with:python-version: "3.10"- name: Install Dependenciesrun: |pip install pytest- name: Run Testsrun: |pytest test_tasks.py
