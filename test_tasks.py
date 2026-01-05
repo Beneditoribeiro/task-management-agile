@@ -1,3 +1,7 @@
+# Autor: Benedito Ribeiro - Projeto TechFlow Solutions
+
+Salve (Commit) com a mensagem: refactor: adiciona autoria ao código fonte
+
 import pytest
 from task_manager import create_task, get_task, update_task_status, delete_task, tasks
 
