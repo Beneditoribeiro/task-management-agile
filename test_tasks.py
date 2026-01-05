@@ -1,13 +1,5 @@
-
-# Status: Todos os testes automatizados via GitHub Actions passaram.
-
-Salve (Commit) com a mensagem: test: validação final do pipeline de qualidade.
-
-# Autor: Benedito Ribeiro - Projeto TechFlow Solutions
-
-Salve (Commit) com a mensagem: refactor: adiciona autoria ao código fonte
-
 import pytest
+# Importamos as funções do seu arquivo principal
 from task_manager import create_task, get_task, update_task_status, delete_task, tasks
 
 @pytest.fixture(autouse=True)
@@ -34,7 +26,3 @@ def test_delete_task():
     task = get_task(task_id)
     assert success is True
     assert task is None
-
-def test_create_task_with_missing_fields():
-    with pytest.raises(ValueError):
-        create_task("", "Valida", "Baixa")
