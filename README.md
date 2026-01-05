@@ -8,19 +8,32 @@ Desenvolver um sistema robusto e ágil para o gerenciamento de tarefas (Task Man
 
 
 
-\## ⚙️ Escopo (MVP)
+## 🎯 Objetivo
+Desenvolver um sistema robusto e ágil para o gerenciamento de tarefas (Task Management System - TMS) focado em startups de logística.
 
-O Produto Mínimo Viável (MVP) contempla a funcionalidade essencial de um CRUD:
+## 👥 Equipe
+* **Desenvolvedor e Gestor:** [SEU NOME COMPLETO AQUI]
 
-1\. Criação de Tarefas
+## ⚙️ Escopo (MVP)
+O Produto Mínimo Viável (MVP) contempla as funcionalidades essenciais de um CRUD:
+1. Criação de Tarefas
+2. Listagem de Tarefas
+3. Atualização de Tarefas
+4. Exclusão de Tarefas
 
-2\. Listagem de Tarefas
+## 🛠 Metodologia
+Utilizamos **Metodologias Ágeis**, com o framework **Scrum** para organização das sprints e o quadro **Kanban** (aba Projects do GitHub) para acompanhamento visual do fluxo de trabalho nas colunas: A Fazer, Em Progresso e Concluído.
 
-3\. Atualização de Tarefas
+## ⚠️ Simulação de Gestão de Mudanças
+**Alteração Solicitada:** Inclusão do campo "Data de Vencimento" (Due Date) para melhor controle de prazos críticos.
+* **Justificativa:** Necessidade identificada pelo cliente para priorização de entregas logísticas.
+* **Impacto:** Atualização do modelo de dados no arquivo `task_manager.py` e adaptação do quadro Kanban.
 
-4\. Exclusão de Tarefas
-5\. docs: adiciona nomes dos integrantes.
-6\. docs: responde questões norteadoras.
+## 🧠 Conclusões (Questões Norteadoras)
+* **Falhas em Projetos Ágeis:** A má gestão de tarefas e falhas de comunicação são causas comuns de erros. O GitHub mitiga isso centralizando o código e o fluxo de trabalho em um só lugar.
+* **Beneficiados:** Gestores e desenvolvedores utilizam o sistema para monitorar o desempenho e priorizar tarefas críticas em tempo real.
+* **Controle de Qualidade:** O uso do **GitHub Actions** garante a entrega de um software confiável através de testes automatizados realizados a cada commit.
+* **Desafios na Mudança:** O maior desafio é manter a flexibilidade sem perder o controle do que já foi feito. O rastreamento por commits facilita essa adaptação.
 
 
 ---
