@@ -12,7 +12,7 @@ Desenvolver um sistema robusto e ágil para o gerenciamento de tarefas (Task Man
 Desenvolver um sistema robusto e ágil para o gerenciamento de tarefas (Task Management System - TMS) focado em startups de logística.
 
 ## 👥 Equipe
-* **Desenvolvedor e Gestor:** [SEU NOME COMPLETO AQUI]
+* **Desenvolvedor e Gestor:** Benedito Ribeiro Soares
 
 ## ⚙️ Escopo (MVP)
 O Produto Mínimo Viável (MVP) contempla as funcionalidades essenciais de um CRUD:
