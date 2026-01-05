@@ -60,7 +60,9 @@ Utilizamos **Metodologias Ágeis**, com o framework **Scrum** para organização
 
 ---
 
+--- *Entrega finalizada para a disciplina de Engenharia de Software.*
 
+Salve (Commit) com a mensagem: docs: adiciona nota final de entrega.
 
 \## 🛠️ Metodologia Adotada: Ágil (Kanban e Scrum/Lite)
 
