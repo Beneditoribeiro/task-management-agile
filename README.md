@@ -19,7 +19,8 @@ O Produto Mínimo Viável (MVP) contempla a funcionalidade essencial de um CRUD:
 3\. Atualização de Tarefas
 
 4\. Exclusão de Tarefas
-
+5\. docs: adiciona nomes dos integrantes.
+6\. docs: responde questões norteadoras.
 
 
 ---
