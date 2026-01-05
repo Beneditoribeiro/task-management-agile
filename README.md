@@ -56,7 +56,7 @@ Utilizamos **Metodologias Ágeis**, com o framework **Scrum** para organização
 
 3\. Ação de Documentação: Esta seção foi adicionada ao `README.md` para registrar a alteração.
 
-
+--- *Projeto finalizado para fins acadêmicos.*
 
 ---
 
